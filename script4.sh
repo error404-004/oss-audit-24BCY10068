@@ -1,7 +1,7 @@
 #!/bin/bash
 # ==========================================================
 # Script 4: Log File Analyzer
-# Author: Your Name
+# Author: Deepayan Dey
 # Course: Open Source Software
 # Description: Analyzes log file for keyword occurrences
 # ==========================================================
