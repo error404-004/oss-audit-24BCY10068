@@ -1,7 +1,7 @@
 #!/bin/bash
 # ==========================================================
 # Script 2: FOSS Package Inspector
-# Author: Your Name
+# Author: Deepayan Dey
 # Course: Open Source Software
 # Description: Checks if a package is installed and shows details
 # ==========================================================
