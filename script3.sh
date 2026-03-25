@@ -1,7 +1,7 @@
 #!/bin/bash
 # ==========================================================
 # Script 3: Disk and Permission Auditor
-# Author: Your Name
+# Author: Deepayan Dey
 # Course: Open Source Software
 # Description: Audits system directories for size and permissions
 # ==========================================================
