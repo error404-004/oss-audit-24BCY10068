@@ -1,7 +1,7 @@
 #!/bin/bash
 # ==========================================================
 # Script 1: System Identity Report
-# Author: Your Name
+# Author: Deepayan Dey
 # Course: Open Source Software
 # Description: Displays system information in a structured way
 # ==========================================================
