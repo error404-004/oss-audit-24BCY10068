@@ -1,7 +1,7 @@
 #!/bin/bash
 # ==========================================================
 # Script 5: Open Source Manifesto Generator
-# Author: Your Name
+# Author: Deepayan Dey
 # Course: Open Source Software
 # Description: Generates a personalized open-source manifesto
 # ==========================================================
